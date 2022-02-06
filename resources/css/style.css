@@ -53,7 +53,7 @@ body {
 
 .img {
     border:2px solid #fff;
-    background: url(img/tiger.png) no-repeat;
+    /* background: url(img/tiger.png) no-repeat; */
     box-shadow: 10px 10px 5px #ccc;
     -moz-box-shadow: 10px 10px 5px #ccc;
     -webkit-box-shadow: 10px 10px 5px #ccc;
