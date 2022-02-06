@@ -1,6 +1,7 @@
 body {
     /* background-image: url("/resources/images/forest.jpg"); */
-    background-image: url("resources/images/forest.jpg"), linear-gradient(#f7f3f6, #4b1c1a);
+  
+    background-image: url("/resources/images/forest.jpg"), linear-gradient(#f7f3f6, #4b1c1a);
     background-color: lightseagreen;
 }
 
@@ -91,6 +92,7 @@ body {
 .about {
   height: 300px;
   width: 25%;
+
 }
 
 .forest2 {
@@ -125,19 +127,18 @@ body {
 
 .container {
   padding:10px;
-  background-color: lightseagreen;
 
 }
 
 .forest-bg
 {
   background-image: url("resources/images/forest.jpg");
-  background-color: lightseagreen;
+
   padding: 5px;
 }
 
 .bio {
-  background-color: rgb(218, 204, 21);
+  background-color: lightseagreen;
   font-family: Arial;
   color: white;
   height: 400px;
