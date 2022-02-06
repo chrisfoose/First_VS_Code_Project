@@ -1,7 +1,7 @@
 body {
   
     /* background-image: url("/resources/images/forest.jpg"); */
-    background-image: url("/resources/images/forest.jpg"), linear-gradient(#f7f3f6, #4b1c1a);
+    background-image: url("resources/images/forest.jpg"), linear-gradient(#f7f3f6, #4b1c1a);
 }
 
 .topnav {
